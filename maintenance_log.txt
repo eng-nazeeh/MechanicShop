@@ -23,3 +23,4 @@
 2025-10-03 09:24:00 - Fix: DTO mapping to fix memory leaks
 2025-10-04 14:08:00 - Update: Middleware following clean architecture
 2025-10-04 10:55:00 - Fix: Validation rules following clean architecture
+2025-10-04 09:14:00 - Refactor: Validation rules following clean architecture
