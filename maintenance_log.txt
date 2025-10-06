@@ -29,3 +29,4 @@
 2025-10-04 11:00:00 - Optimize: DTO mapping to handle edge cases
 2025-10-06 12:51:00 - Update: Database schema following clean architecture
 2025-10-06 16:32:00 - Refactor: Middleware following clean architecture
+2025-10-06 17:01:00 - Update: Middleware for better readability
