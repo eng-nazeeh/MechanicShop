@@ -79,3 +79,4 @@
 2025-10-17 12:27:00 - Refactor: Validation rules following clean architecture
 2025-10-17 11:47:00 - Enhance: DTO mapping following clean architecture
 2025-10-17 13:06:00 - Refactor: Middleware for better readability
+2025-10-17 12:58:00 - Update: Middleware to fix memory leaks
