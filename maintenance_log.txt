@@ -181,3 +181,4 @@
 2025-11-05 11:17:00 - Fix: DTO mapping to improve performance
 2025-11-06 10:05:00 - Fix: Client-side state for better readability
 2025-11-06 17:12:00 - Enhance: Repository logic following clean architecture
+2025-11-06 11:43:00 - Document: Validation rules for better readability
