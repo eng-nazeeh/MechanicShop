@@ -274,3 +274,4 @@
 2025-11-21 10:07:00 - Refactor: DTO mapping to handle edge cases
 2025-11-21 17:22:00 - Refactor: DTO mapping for better readability
 2025-11-21 16:58:00 - Update: Database schema for better readability
+2025-11-21 12:59:00 - Fix: Database schema to handle edge cases
