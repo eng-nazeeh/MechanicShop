@@ -267,3 +267,4 @@
 2025-11-20 14:48:00 - Update: Middleware following clean architecture
 2025-11-21 09:26:00 - Update: Database schema following clean architecture
 2025-11-21 17:53:00 - Document: Database schema to fix memory leaks
+2025-11-21 13:11:00 - Document: DTO mapping to fix memory leaks
