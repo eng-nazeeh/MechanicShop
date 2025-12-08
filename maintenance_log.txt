@@ -351,3 +351,4 @@
 2025-12-06 11:05:00 - Optimize: DTO mapping following clean architecture
 2025-12-08 12:04:00 - Enhance: DTO mapping to handle edge cases
 2025-12-08 09:31:00 - Enhance: Middleware for better readability
+2025-12-08 16:40:00 - Fix: Repository logic for better readability
