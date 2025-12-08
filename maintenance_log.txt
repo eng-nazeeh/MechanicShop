@@ -349,3 +349,4 @@
 2025-12-05 17:55:00 - Document: API Endpoints for better readability
 2025-12-06 16:25:00 - Fix: Database schema for better readability
 2025-12-06 11:05:00 - Optimize: DTO mapping following clean architecture
+2025-12-08 12:04:00 - Enhance: DTO mapping to handle edge cases
