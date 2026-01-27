@@ -595,3 +595,4 @@
 2026-01-26 17:57:00 - Document: DTO mapping following clean architecture
 2026-01-27 12:10:00 - Document: Unit test cases following clean architecture
 2026-01-27 13:28:00 - Optimize: Client-side state following clean architecture
+2026-01-27 12:35:00 - Update: Repository logic for better readability
