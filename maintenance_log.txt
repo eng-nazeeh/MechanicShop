@@ -769,3 +769,4 @@
 2026-02-21 14:01:00 - Update: DTO mapping following clean architecture
 2026-02-23 14:40:00 - Fix: API Endpoints to fix memory leaks
 2026-02-23 13:14:00 - Refactor: Validation rules to handle edge cases
+2026-02-23 12:48:00 - Update: Validation rules for better readability
